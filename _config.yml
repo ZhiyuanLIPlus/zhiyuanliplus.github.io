@@ -1,0 +1,11 @@
+auto: true
+
+markdown: kramdown
+highlighter: rouge
+paginate: 8
+permalink: /:title
+
+title: Zhiyuan's Blog
+url: http://zhiyuanliplus.github.io
+feed: /atom.xml
+author_info: <a href="http://zhiyuanliplus.github.io/">Zhiyuan's Blog</a>

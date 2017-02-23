@@ -1,0 +1,11 @@
+
+#global
+*.orig
+.swp
+
+#ios
+.DS_Store
+*~
+.svn
+.idea
+/_site
