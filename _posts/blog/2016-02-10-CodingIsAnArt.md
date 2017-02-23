@@ -7,45 +7,45 @@ category: blog
 
 打开PythonShell, 输入import this。 回车，输出结果：
 
-_The Zen of Python, by Tim Peters_
+*The Zen of Python, by Tim Peters*
 
-_Beautiful is better than ugly._
+*Beautiful is better than ugly.*
 
-_Explicit is better than implicit._
+*Explicit is better than implicit.*
 
-_Simple is better than complex._
+*Simple is better than complex.*
 
-_Complex is better than complicated._
+*Complex is better than complicated.*
 
-_Flat is better than nested._
+*Flat is better than nested.*
 
-_Sparse is better than dense._
+*Sparse is better than dense.*
 
-_Readability counts._
+*Readability counts.*
 
-_Special cases aren't special enough to break the rules._
+*Special cases aren't special enough to break the rules.*
 
-_Although practicality beats purity._
+*Although practicality beats purity.*
 
-_Errors should never pass silently._
+*Errors should never pass silently.*
 
-_Unless explicitly silenced._
+*Unless explicitly silenced.*
 
-_In the face of ambiguity, refuse the temptation to guess._
+*In the face of ambiguity, refuse the temptation to guess.*
 
-_There should be one-- and preferably only one --obvious way to do it._
+*There should be one-- and preferably only one --obvious way to do it.*
 
-_Although that way may not be obvious at first unless you're Dutch._
+*Although that way may not be obvious at first unless you're Dutch.*
 
-_Now is better than never._
+*Now is better than never.*
 
-_Although never is often better than *right now.*_
+*Although never is often better than *right now.**
 
-_If the implementation is hard to explain, it's a bad idea._
+*If the implementation is hard to explain, it's a bad idea.*
 
-_If the implementation is easy to explain, it may be a good idea._
+*If the implementation is easy to explain, it may be a good idea.*
 
-_Namespaces are one honking great idea -- let's do more of those!_
+*Namespaces are one honking great idea -- let's do more of those!*
 
 
 大意就是用”Python之禅“(Python之道)解释了Python的特点：美观、简单、可读和实用，拒绝复杂或模糊。
@@ -64,18 +64,18 @@ P.S 顺手贴一下另一位炼金术士[@ZhengZhong](http://www.zhengzhong.net/
 
 #####Java
 
-_纷乱的实现，被精心埋藏在简单的接口下边_
+*纷乱的实现，被精心埋藏在简单的接口下边*
 
-_迷茫的程序员，迷失在自己建造的工厂里面_
+*迷茫的程序员，迷失在自己建造的工厂里面*
 
 #####C++
 
-_回忆是一枚失落的指针_
+*回忆是一枚失落的指针*
 
-_往昔是片永无法删除的内存_
+*往昔是片永无法删除的内存*
 
 #####Python
 
-_是谁说所有的问题都应该只有一个答案_
+*是谁说所有的问题都应该只有一个答案*
 
-_我们该如何面对这纷纷扰扰的异常_
+*我们该如何面对这纷纷扰扰的异常*
