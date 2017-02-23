@@ -1,2 +1,2 @@
 # zhiyuanliplus.github.io
-Personal Blog
+My personal blog (zhiyuanliplus.github.io)

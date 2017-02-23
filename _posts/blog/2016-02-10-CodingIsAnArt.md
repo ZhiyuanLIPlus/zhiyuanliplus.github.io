@@ -5,7 +5,7 @@ description: 有没有某一个瞬间，你会为你的职业无比自豪
 category: blog
 ---
 
-打开PythonShell, 输入import this。回车，输出结果：
+打开PythonShell, 输入import this。 回车，输出结果：
 
 The Zen of Python, by Tim Peters
 
