@@ -7,9 +7,9 @@ category: blog
 
 打开PythonShell, 输入import this。 回车，输出结果：
 
-*The Zen of Python, by Tim Peters*
+* The Zen of Python, by Tim Peters *
 
-*Beautiful is better than ugly.*
+* Beautiful is better than ugly. *
 
 *Explicit is better than implicit.*
 
