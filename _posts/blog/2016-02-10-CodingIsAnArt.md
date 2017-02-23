@@ -6,48 +6,48 @@ category: blog
 ---
 
 打开PythonShell, 输入import this。 回车，输出结果：
-```
-The Zen of Python, by Tim Peters
 
-Beautiful is better than ugly.
+_The Zen of Python, by Tim Peters_
 
-Explicit is better than implicit.
+_Beautiful is better than ugly._
 
-Simple is better than complex.
+_Explicit is better than implicit._
 
-Complex is better than complicated.
+_Simple is better than complex._
 
-Flat is better than nested.
+_Complex is better than complicated._
 
-Sparse is better than dense.
+_Flat is better than nested._
 
-Readability counts.
+_Sparse is better than dense._
 
-Special cases aren't special enough to break the rules.
+_Readability counts._
 
-Although practicality beats purity.
+_Special cases aren't special enough to break the rules._
 
-Errors should never pass silently.
+_Although practicality beats purity._
 
-Unless explicitly silenced.
+_Errors should never pass silently._
 
-In the face of ambiguity, refuse the temptation to guess.
+_Unless explicitly silenced._
 
-There should be one-- and preferably only one --obvious way to do it.
+_In the face of ambiguity, refuse the temptation to guess._
 
-Although that way may not be obvious at first unless you're Dutch.
+_There should be one-- and preferably only one --obvious way to do it._
 
-Now is better than never.
+_Although that way may not be obvious at first unless you're Dutch._
 
-Although never is often better than *right now.*
+_Now is better than never._
 
-If the implementation is hard to explain, it's a bad idea.
+_Although never is often better than *right now.*_
 
-If the implementation is easy to explain, it may be a good idea.
+_If the implementation is hard to explain, it's a bad idea._
 
-Namespaces are one honking great idea -- let's do more of those!
+_If the implementation is easy to explain, it may be a good idea._
 
-```
+_Namespaces are one honking great idea -- let's do more of those!_
+
+
 大意就是用”Python之禅“(Python之道)解释了Python的特点：美观、简单、可读和实用，拒绝复杂或模糊。
 
 程序员这种古代炼金术士一般的黑科技兵种要是文艺起来简直各种挡不住。
@@ -62,20 +62,20 @@ Namespaces are one honking great idea -- let's do more of those!
 
 P.S 顺手贴一下另一位炼金术士[@ZhengZhong](http://www.zhengzhong.net/blog/2014/04/18/poems-about-programming/)的作品：
 
-Java
+#####Java
 
-纷乱的实现，被精心埋藏在简单的接口下边
+_纷乱的实现，被精心埋藏在简单的接口下边_
 
-迷茫的程序员，迷失在自己建造的工厂里面
+_迷茫的程序员，迷失在自己建造的工厂里面_
 
-C++
+#####C++
 
-回忆是一枚失落的指针
+_回忆是一枚失落的指针_
 
-往昔是片永无法删除的内存
+_往昔是片永无法删除的内存_
 
-Python
+#####Python
 
-是谁说所有的问题都应该只有一个答案
+_是谁说所有的问题都应该只有一个答案_
 
-我们该如何面对这纷纷扰扰的异常
+_我们该如何面对这纷纷扰扰的异常_
