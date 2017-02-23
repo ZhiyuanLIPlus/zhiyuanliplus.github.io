@@ -62,19 +62,19 @@ category: blog
 
 P.S 顺手贴一下另一位炼金术士[@ZhengZhong](http://www.zhengzhong.net/blog/2014/04/18/poems-about-programming/)的作品：
 
-#####Java
+##### Java
 
 *纷乱的实现，被精心埋藏在简单的接口下边*
 
 *迷茫的程序员，迷失在自己建造的工厂里面*
 
-#####C++
+##### C++
 
 *回忆是一枚失落的指针*
 
 *往昔是片永无法删除的内存*
 
-#####Python
+##### Python
 
 *是谁说所有的问题都应该只有一个答案*
 
