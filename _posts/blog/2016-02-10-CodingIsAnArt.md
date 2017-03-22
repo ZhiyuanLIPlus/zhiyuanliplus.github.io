@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 写诗的炼金术师们
-description: 有没有某一个瞬间，你会为你的职业无比自豪
+description: 
 category: blog
 ---
 
