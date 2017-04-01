@@ -15,10 +15,10 @@ description: 直把他乡作故乡
 
 
 ### Puteaux 2014 - 碛中作
-![Paris3](/images/emotion/Paris/2014Puteaux.jpg)
+![Paris3](/images/emotion/Paris/2014Puteaux.JPG)
 14年夏天在一家叫CSC的公司实习时，有天晚上喝了点酒，趟在床上翻全唐诗，突然看到了岑参的这首诗。就在Puteaux家中尝试着把它写了下来。
 
 ### Plaine 2015 - 最后一次搬家
-![Paris4](/images/emotion/Paris/2016Summer.jpg)
-![Paris5](/images/emotion/Paris/2016Plaine.jpg)
+![Paris4](/images/emotion/Paris/2016Summer.JPG)
+![Paris5](/images/emotion/Paris/2016Plaine.JPG)
 我在15年春天搬到了现在的住所，在巴黎11区Nation广场附近。除了周围没什么好吃的，这应该是我在法国住过的所有住所里我最满意的一间。而且，我无比确信，直到我离开法国，我应该不会再从这个房子里搬出去了。

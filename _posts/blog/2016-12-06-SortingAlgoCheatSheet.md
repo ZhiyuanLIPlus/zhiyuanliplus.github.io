@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: 排序算法小结
 category: blog
 description: CheatSheet
