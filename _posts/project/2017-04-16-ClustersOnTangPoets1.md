@@ -9,7 +9,7 @@ description: 不算太成功的k均值聚类
 前一段时间在微信里看到了一篇分析唐朝诗人引用关系的[文章](https://mp.weixin.qq.com/s?__biz=MzI0NTUxMjgyOA==&mid=2247483750&idx=1&sn=dd883b547a3fc4343a3dcce1abea3719&chksm=e94c2e75de3ba7631ffd7abff8a89ea56fda63b2f3d3bb81fd845ef5fd3e9207b41230900288&mpshare=1&scene=1&srcid=0314HdoeYueFNse6H7j18qfx&pass_ticket=P5NYT1vI3xq6gboRVFuq64N9z2Yp0ADF4pMH3nRnXAhGuoM7eROG8O2lhVg%2BIvoR#rd)，觉得还比较有意思。正好最近看了一些讲聚类算法的书，就突发奇想想看看算法是怎么理解那些伟大的诗人们的。比如通过诗人们在诗中的用词习惯来分析他们之间可能产生的聚类关系。
 
 ## 数据准备
-要分析唐朝诗人，最好的数据来源当然是全唐诗了。这里我也直接使用了[MrQianJinSi] (https://github.com/MrQianJinSi/poetry_analyzer)Github里的数据。
+要分析唐朝诗人，最好的数据来源当然是全唐诗了。这里我也直接使用了[MrQianJinSi](https://github.com/MrQianJinSi/poetry_analyzer) Github里的数据。
 
 ### 分词工具
 因为我希望得到的数据是一张 { 诗人：{ 诗中词汇：词频 } } 的嵌套字典表，那么对全唐诗进行分词就是必要的步骤。这里我也直接使用了清华大学NLP实验室的[thulac分词工具](http://thulac.thunlp.org/)。需要注意的是，目前的thulac版本中的词性标注模型似乎只能支持PYTHON3.0之后的版本。所以，早点升级才是王道啊。
